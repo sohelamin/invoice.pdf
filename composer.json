@@ -1,0 +1,22 @@
+{
+    "name": "sohelamin/invoice.pdf",
+    "license": "MIT",
+    "description": "Invoice PDF Generator using dompdf",
+    "keywords": [
+        "invoice",
+        "pdf",
+        "invoice.pdf",
+        "dompdf"
+    ],
+    "authors": [
+        {
+            "name": "Sohel Amin",
+            "email": "sohelamincse@gmail.com",
+            "homepage": "http://www.appzcoder.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "dompdf/dompdf": "^0.7.0"
+    }
+}
